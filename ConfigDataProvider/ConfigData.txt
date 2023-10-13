@@ -1,0 +1,3 @@
+key=value
+BaseURL_QA1=https://www.amazon.in/
+BaseURL_QA2=https://www.amazon.in/
