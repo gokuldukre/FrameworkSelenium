@@ -14,6 +14,9 @@ public class Test_1 extends BaseClass {
 		login.getBtn_search().click();
 		login.getImg_Mobile().click();
 		//Testing Git
+		// New testing as per the master
+		
+		
 	}
 
 }
